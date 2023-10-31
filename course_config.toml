@@ -1,0 +1,241 @@
+course = "oamk-java-oamk-english-2023"
+
+[exercises."part01-Part01_02.AdaLovelace"]
+id = 216681
+checksum = "63ab4d05d0de2e5eb9e1f3c49860863b"
+
+[exercises."part01-Part01_03.OnceUponATime"]
+id = 216678
+checksum = "5651287cdb24f37ee4acdc1d06d82a5d"
+
+[exercises."part01-Part01_06.HiAdaLovelace"]
+id = 216682
+checksum = "b566d59054a774ae8d95cc1d7fd5928d"
+
+[exercises."part01-Part01_08.Greeting"]
+id = 216695
+checksum = "7566ef257d8e1719f8deed6b50ef6560"
+
+[exercises."part01-Part01_15.DifferentTypesOfInput"]
+id = 216692
+checksum = "d64301021eeef5d4d94e9801c248ee15"
+
+[exercises."part01-Part01_16.SecondsInADay"]
+id = 216675
+checksum = "1613e43fb75d829047a66b4b5eadc657"
+
+[exercises."part01-Part01_18.SumOfThreeNumbers"]
+id = 216676
+checksum = "35c94bb5f716b6f410358c88665414a1"
+
+[exercises."part01-Part01_22.AverageOfThreeNumbers"]
+id = 216679
+checksum = "ac0813a8ef3095003e678f9f403009c6"
+
+[exercises."part01-Part01_24.SpeedingTicket"]
+id = 216671
+checksum = "c0209d245ffcf5fa69b267dc8e7723bc"
+
+[exercises."part01-Part01_28.Positivity"]
+id = 216689
+checksum = "db7c5a483a6eb9993cde9a00b14146e1"
+
+[exercises."part01-Part01_30.LargerThanOrEqualTo"]
+id = 216673
+checksum = "6727ad85f11be8a60fcb3063564bc03d"
+
+[exercises."part01-Part01_31.GradesAndPoints"]
+id = 216669
+checksum = "989247805b719251684585c469af4e3d"
+
+[exercises."part01-Part01_33.Password"]
+id = 216670
+checksum = "0fe99e479e5e68e3d2c188a4996e794b"
+
+[exercises."part01-Part01_36.LeapYear"]
+id = 216662
+checksum = "b9501d89e54cafda62f32ac981943249"
+
+[exercises."part02-Part02_02.SquareRootOfSum"]
+id = 216557
+checksum = "2cada50f5d7fb82e2e3afdf2323d6c2a"
+
+[exercises."part02-Part02_05.CarryOn"]
+id = 216571
+checksum = "7cb7c35fcec722110162bcf247d5a451"
+
+[exercises."part02-Part02_07.OnlyPositives"]
+id = 216553
+checksum = "c1eefd597ffb177bc54054e60d93c093"
+
+[exercises."part02-Part02_10.SumOfNumbers"]
+id = 216548
+checksum = "fdc8515a210df08e11f701238b71b034"
+
+[exercises."part02-Part02_14.Counting"]
+id = 216538
+checksum = "5caf66b0f0276bba177b3f7b0b7642ae"
+
+[exercises."part02-Part02_16.FromWhereToWhere"]
+id = 216558
+checksum = "b492354ab96122c59a84e98eab231920"
+
+[exercises."part02-Part02_17.SumOfASequence"]
+id = 216556
+checksum = "f2865b4f12e5f91cf20baa209f794618"
+
+[exercises."part02-Part02_21.InAHoleInTheGround"]
+id = 216565
+checksum = "6343684328c18b526a9258ad2e454b92"
+
+[exercises."part02-Part02_23.FromOneToParameter"]
+id = 216561
+checksum = "8984a3aaa6d463f555485a423b0c07fd"
+
+[exercises."part02-Part02_25.Division"]
+id = 216543
+checksum = "bfe5bac0bb2344c95a2e4b39310cc428"
+
+[exercises."part02-Part02_27.NumberUno"]
+id = 216542
+checksum = "cd004508fbbe3a387dbe98e22a62876a"
+
+[exercises."part02-Part02_29.Summation"]
+id = 216545
+checksum = "3947384feb118b188aa9af56a38f20e8"
+
+[exercises."part02-Part02_32.Averaging"]
+id = 216552
+checksum = "e18f88cc82db1a9978e648ae41a49c8f"
+
+[exercises."part03-Part03_01.ThirdElement"]
+id = 216814
+checksum = "6f87be965cb4d93da56314e000a0e633"
+
+[exercises."part03-Part03_05.LastInList"]
+id = 216803
+checksum = "9267f3093f4ee12575c2aadeefe1c3ca"
+
+[exercises."part03-Part03_06.FirstAndLast"]
+id = 216818
+checksum = "b06559d9480b7b2756fa56eb6ffd6305"
+
+[exercises."part03-Part03_07.RememberTheseNumbers"]
+id = 216812
+checksum = "73c4caa1e2b4b53ee6e6119080b41f95"
+
+[exercises."part03-Part03_09.GreatestInList"]
+id = 216796
+checksum = "94c7cb7857e8eefa95d9d77c8c3e0c84"
+
+[exercises."part03-Part03_13.AverageOfAList"]
+id = 216822
+checksum = "61a19a98861347b6521ac1352cbd062e"
+
+[exercises."part03-Part03_14.OnTheList"]
+id = 216809
+checksum = "e1385eaeb827aca8d7df4aa957be1705"
+
+[exercises."part03-Part03_16.Sum"]
+id = 216797
+checksum = "e783c1908c54009463b137136c4b52f8"
+
+[exercises."part03-Part03_17.RemoveLast"]
+id = 216813
+checksum = "9a95d3b5ec1638ae5ac16123338768c7"
+
+[exercises."part03-Part03_18.Swap"]
+id = 216825
+checksum = "33209ddca71b93e42110d4c6c70d6577"
+
+[exercises."part03-Part03_21.PrintNeatly"]
+id = 216823
+checksum = "5ce37e7472562ab3fd290715c4c4db81"
+
+[exercises."part03-Part03_25.Login"]
+id = 216810
+checksum = "8185abd2b784d6cf8f79739c855aab09"
+
+[exercises."part03-Part03_26.LineByLine"]
+id = 216808
+checksum = "8b592d324a2ccb3522de14b6d16c4515"
+
+[exercises."part03-Part03_32.PersonalDetails"]
+id = 216819
+checksum = "c86bbbf9ae221bcf8c9fd691dfde173e"
+
+[exercises."part04-Part04_03.DogAttributes"]
+id = 216760
+checksum = "9febf05dc4d7853f8488159890283741"
+
+[exercises."part04-Part04_04.Room"]
+id = 216771
+checksum = "69f10f813b41bdf5e8ca58d6f0166299"
+
+[exercises."part04-Part04_05.Whistle"]
+id = 216758
+checksum = "790a3f6ec93b5707ea60f6fbda99519b"
+
+[exercises."part04-Part04_08.DecreasingCounter"]
+id = 216767
+checksum = "27501c3ca12a4a42660e6aea3066a968"
+
+[exercises."part04-Part04_10.Song"]
+id = 216783
+checksum = "1951f4643e6713bc9461938d09b16c6c"
+
+[exercises."part04-Part04_12.Gauge"]
+id = 216769
+checksum = "c3cabf27209b976182a22741cab00304"
+
+[exercises."part04-Part04_16.PaymentCard"]
+id = 216762
+checksum = "d54db26aafa4175fd85ca5d5b300f6d3"
+
+[exercises."part04-Part04_18.PersonalInformation"]
+id = 216784
+checksum = "a8fc5aae9ce987f0c928bbfefa090323"
+
+[exercises."part04-Part04_20.Books"]
+id = 216763
+checksum = "8111197f8af47e20b4ed2d16e350149f"
+
+[exercises."part05-Part05_05.ConstructorOverload"]
+id = 216620
+checksum = "6d319194d98bb5cecdb35bd3835e0b59"
+
+[exercises."part05-Part05_07.NullPointerException"]
+id = 216616
+checksum = "7b96a5a27e04d8f0f6909dea6233541c"
+
+[exercises."part05-Part05_11.ComparingApartments"]
+id = 216618
+checksum = "81b05ded537afa9e17889f23fe7d6c27"
+
+[exercises."part05-Part05_14.Books"]
+id = 216619
+checksum = "3a89d47b3454b26e38b9e5405cb22349"
+
+[exercises."part06-Part06_01.Menu"]
+id = 216740
+checksum = "87876ae44c9a20607b039cf6c31174d2"
+
+[exercises."part06-Part06_03.MessagingService"]
+id = 216739
+checksum = "bfe9c04ba28125fc45ed9f5adbb8a7b4"
+
+[exercises."part06-Part06_08.CargoHold"]
+id = 216735
+checksum = "441a55d8978db22ab136350da7f2d4cc"
+
+[exercises."part09-Part09_02.PersonAndSubclasses"]
+id = 216659
+checksum = "b2748dfa481c2254e9f2b5079e36d962"
+
+[exercises."part09-Part09_06.InterfaceInABox"]
+id = 216652
+checksum = "52818f7b06e7cd50e09409c99a944a6e"
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 216744
+checksum = "7952b34b442cc255800c53596e6a05bc"
